@@ -1,5 +1,7 @@
+use std::{path::Path, fs::File, io::BufReader};
+
 mod rom;
 
 fn main() {
-    println!("Hello, world!");
+    println!("One day I will run the boy!");
 }
